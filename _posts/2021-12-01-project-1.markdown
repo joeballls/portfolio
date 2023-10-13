@@ -4,6 +4,10 @@ modal-id: 1
 date: 2021-12
 img: session1/generique1.png
 alt: image-alt
+img: session1/generique2.png
+alt: image-alt
+img: session1/generique3.png
+alt: image-alt
 project-date: Décembre 2021
 category: Photoshop
 description: Projet test here
