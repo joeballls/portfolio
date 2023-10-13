@@ -2,9 +2,9 @@
 layout: default
 modal-id: 1
 date: 2021-12
-img: images/portfolio/session1/generique1.png
+img: session1/generique1.png
 alt: image-alt
-img: images/portfolio/session1/generique2.png
+img: session1/generique2.png
 alt: image-alt2
 project-date: Décembre 2021
 category: Photoshop
