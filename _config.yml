@@ -25,17 +25,17 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 8eedc4 #80B3FF
-  primary-rgb: "142, 237, 196" #"128,179,255"
+  primary: 60a386 #80B3FF
+  primary-rgb: "96, 163, 134" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 # footer:
-  # copyright: Dr. Henry Jekyll
-  # location: Location
-  # social: Around the Web
-  # credits: Credits
+# copyright: Dr. Henry Jekyll
+# location: Location
+# social: Around the Web
+# credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
