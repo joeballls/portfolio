@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 2
+date: 2023-10-4
+img: personal/squad.png
+alt: the squad
+project-date: 24 octobre 2023
+category: Pixel Art
+description: Une collection de personnages ayant pour thème "Girls with Guns" que j'ai conçu avec mon amie et dessiné.
+---
