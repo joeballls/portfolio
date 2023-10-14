@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2023-10-2
 img: personal/aiko_fullbody.png
 alt: Aiko 2
