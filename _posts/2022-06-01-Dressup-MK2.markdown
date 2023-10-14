@@ -6,6 +6,8 @@ vid: UALQJVaA0Bw
 img: personal/dressup_portrait.png
 alt: Dressup 2
 project-date: mai-juin 2022
+role: Designer / Artiste de sprite
+software: Aseprite / Visual Studio Code
 category: Pixel Art / Conception
-description: Un projet de jeu de navigateur qui permet à l'utilisateur de créer ses propres avatars sur lequel j'ai travaillé avec mon ami pendant l'été 2022. Projet incomplet à cause du burnout de la session précédente.
+description: Un projet de jeu de navigateur qui permet à l'utilisateur de créer ses propres avatars sur lequel j'ai travaillé avec mon ami pendant l'été 2022.
 ---

@@ -36,8 +36,18 @@
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
+              {% if post.role %}
+              <li>Rôle:
+                <strong>{{ post.role }}</strong>
+              </li>
+              {% endif %}
+              {% if post.software %}
+              <li>Logiciel(s) utilisé(s):
+                <strong>{{ post.software }}</strong>
+              </li>
+              {% endif %}
               {% if post.category %}
-              <li>Service:
+              <li>Catégorie:
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
