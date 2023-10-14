@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 3
+date: 2021-10-29
+img: session1/autoportrait6.png
+alt: image-alt
+project-date: 29 octobre 2021
+category: Photoshop
+description: Projet autoportrait!
+---
