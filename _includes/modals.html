@@ -18,9 +18,8 @@
             {% if post.vid !== null or post.vid == "" %}
             <iframe class="img-centered" width="608" height="308" src="https://www.youtube.com/embed/{{ post.vid }}">
             </iframe>
-            {% else %}
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% endif %}
+            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
