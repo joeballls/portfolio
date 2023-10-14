@@ -46,6 +46,7 @@ social:
 address:
   - line: Laval-des-Rapides
   - line: Laval, Québec
+  - line: quoc_huydo2003@outlook.com
 
 # Build settings
 markdown: kramdown
