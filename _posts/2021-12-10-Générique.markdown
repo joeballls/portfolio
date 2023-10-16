@@ -3,6 +3,7 @@ layout: default
 modal-id: 15
 date: 2021-12-10
 img: session1/generique4.png
+img2: session1/generique1.png
 alt: big adventure
 project-date: 10 décembre 2021
 role: Designer / Illustrateur

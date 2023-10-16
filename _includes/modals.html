@@ -19,6 +19,12 @@
             <iframe class="img-centered" width="640px" height="360px" src="https://www.youtube.com/embed/{{ post.vid }}">
             </iframe>
             {% endif %}
+            {% if post.img && post.img2 %}
+            <swiper-container>
+              <swiper-slide><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              <swiper-slide><img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+            </swiper-container>
+            {% endif %}
             {% if post.vid == null %}
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% endif %}
