@@ -2,7 +2,11 @@
 layout: default
 modal-id: 12
 date: 2022-11-16
-img: session3/scene2.PNG
+album1: session3/scene1.PNG
+album2: session3/scene2.PNG
+album3: session3/scene3.PNG
+album4: session3/shotgun.PNG
+album5: session3/radio.PNG
 alt: Zombies
 project-date: 16 novembre 2022
 role: Designer / Modélisateur 3D
