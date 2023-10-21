@@ -60,11 +60,7 @@
             </swiper-container>
             {% endif %}
             
-            {% if post.vid == null %}
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% endif %}
-
-            {% if post.album1 == null %}
+            {% if post.vid == null || post.album1 == null %}
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% endif %}
 
