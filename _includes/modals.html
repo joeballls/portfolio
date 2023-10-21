@@ -21,7 +21,7 @@
             </iframe>
             {% endif %}
 
-            {% if post.album1 %}
+            {% if post.album1 && post.img %}
             <swiper-container class="swiper" navigation="true" pagination="true">
               <swiper-slide><img src="img/portfolio/{{ post.album1 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               {% if post.album2 %}
