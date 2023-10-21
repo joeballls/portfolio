@@ -15,7 +15,6 @@ album9: session1/generique9.png
 album10: session1/generique10.png
 album11: session1/generique11.png
 album12: session1/generique12.png
-alt: big adventure
 project-date: 10 décembre 2021
 role: Designer / Illustrateur
 software: Photoshop
