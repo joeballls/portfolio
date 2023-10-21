@@ -1,4 +1,4 @@
-var swiper = new Swiper(".swiper", {
+var swiper = new swiper(".swiper", {
     direction: 'horizontal',
     autoplay: {
       delay: 1500,
