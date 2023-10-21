@@ -22,7 +22,7 @@
             {% endif %}
 
             {% if post.album12 %}
-            <swiper-container class="swiper imagealbum">
+            <swiper-container class="swiper" navigation="true" pagination="true" scrollbar="true">
               <swiper-slide><img src="img/portfolio/{{ post.album1 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               <swiper-slide><img src="img/portfolio/{{ post.album2 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               <div class="swiper-button-next"></div>
@@ -30,8 +30,8 @@
               <div class="swiper-pagination"></div>
             </swiper-container>
             {% endif %}
-            {% if post.album11 && post.album12 == null%}
-            <swiper-container class="swiper imagealbum">
+            {% if post.album12 == null && post.album11 %}
+            <swiper-container class="swiper" navigation="true" pagination="true" scrollbar="true">
               <swiper-slide><img src="img/portfolio/{{ post.album3 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               <swiper-slide><img src="img/portfolio/{{ post.album4 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               <div class="swiper-button-next"></div>

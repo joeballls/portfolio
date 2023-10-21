@@ -1,4 +1,5 @@
-var swiper = new swiper(".imagealbum", {
+/*
+var swiper = new swiper(".swiper", {
     direction: 'horizontal',
     autoplay: {
       delay: 1500,
@@ -12,4 +13,5 @@ var swiper = new swiper(".imagealbum", {
           nextEl: ".swiper-button-next",
           prevEl: ".swiper-button-prev",
         },
-  });
+  }); 
+  */
