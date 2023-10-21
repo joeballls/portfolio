@@ -1,4 +1,4 @@
-var swiper = new swiper(".swiper", {
+var swiper = new swiper(".imagealbum", {
     direction: 'horizontal',
     autoplay: {
       delay: 1500,
