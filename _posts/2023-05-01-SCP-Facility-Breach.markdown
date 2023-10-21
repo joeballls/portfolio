@@ -7,8 +7,7 @@ album1: personal/roblox3.PNG
 album2: personal/roblox4.PNG
 album3: personal/fbguns.PNG
 album4: personal/juggernaut.png
-album4: personal/fbSamsaraGame.PNG
-alt: basement
+album5: personal/fbSamsaraGame.PNG
 project-date: mai 2023
 role: Designer / Builder
 software: Roblox Studio
