@@ -2,6 +2,7 @@
 layout: default
 modal-id: 12
 date: 2022-11-16
+thumbnail: session3/scene1.PNG
 album1: session3/scene1.PNG
 album2: session3/scene2.PNG
 album3: session3/scene3.PNG

@@ -3,7 +3,7 @@ layout: default
 modal-id: 9
 date: 2023-06-01
 vid: xBlYuq-_zoo
-img: personal/theguys.png
+thumbnail: personal/theguys.png
 alt: Cambriolage
 project-date: juin-juillet 2023
 role: Designer / Artiste de sprite

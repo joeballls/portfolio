@@ -2,6 +2,7 @@
 layout: default
 modal-id: 11
 date: 2022-12-15
+thumbnail: session3/tpose.jpg
 img: session3/tpose.jpg
 alt: Welder t-pose
 project-date: 15 décembre 2022

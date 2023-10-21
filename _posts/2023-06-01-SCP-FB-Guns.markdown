@@ -2,6 +2,7 @@
 layout: default
 modal-id: 8
 date: 2023-06-01
+thumbnail: personal/fbguns.PNG
 img: personal/fbguns.PNG
 alt: FB guns
 project-date: juin 2023

@@ -3,7 +3,7 @@ layout: default
 modal-id: 10
 date: 2022-12-01
 vid: UALQJVaA0Bw
-img: personal/dressup_portrait.png
+thumbnail: personal/dressup_portrait.png
 alt: Dressup 2
 project-date: décembre 2022 - janvier 2023
 role: Designer / Artiste de sprite

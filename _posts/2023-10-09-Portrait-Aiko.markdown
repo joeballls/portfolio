@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-10-09
+thumbnail: personal/aiko_face.png
 img: personal/aiko_face.png
 alt: Aiko
 project-date: 9 octobre 2023

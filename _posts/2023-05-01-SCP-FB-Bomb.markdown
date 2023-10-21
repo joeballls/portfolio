@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 2023-05-01
+thumbnail: personal/roblox3.PNG
 img: personal/roblox3.PNG
 alt: basement
 project-date: mai 2023
