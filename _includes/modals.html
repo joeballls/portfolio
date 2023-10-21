@@ -29,7 +29,8 @@
               <div class="swiper-button-prev"></div>
               <div class="swiper-pagination"></div>
             </swiper-container>
-            {% elseif post.album11 %}
+            {% endif %}
+            {% if post.album11 && post.album12 == null%}
             <swiper-container class="swiper imagealbum">
               <swiper-slide><img src="img/portfolio/{{ post.album3 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               <swiper-slide><img src="img/portfolio/{{ post.album4 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
