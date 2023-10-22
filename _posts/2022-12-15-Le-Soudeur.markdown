@@ -3,8 +3,10 @@ layout: default
 modal-id: 11
 date: 2022-12-15
 thumbnail: session3/tpose.jpg
-img: session3/tpose.jpg
-alt: Welder t-pose
+album1: session3/tpose.jpg
+album2: session3/sit.jpg
+album3: session3/weldermesh.PNG
+album4: session3/welder_ref.png
 project-date: 15 décembre 2022
 role: Designer / Modélisateur 3D
 software: Maya
