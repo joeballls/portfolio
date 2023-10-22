@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2023-10-4
+date: 2023-9-4
 thumbnail: personal/squad.png
 img: personal/squad.png
 alt: the squad
