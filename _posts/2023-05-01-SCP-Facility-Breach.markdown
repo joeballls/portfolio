@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2023-05-01
-thumbnail: personal/roblox3.PNG
+thumbnail: personal/FB_thumbnail.png
 album1: personal/roblox3.PNG
 album2: personal/roblox4.PNG
 album3: personal/fbguns.PNG
