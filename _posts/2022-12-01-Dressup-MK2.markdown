@@ -9,5 +9,5 @@ project-date: décembre 2022 - janvier 2023
 role: Designer / Artiste de sprite
 software: Aseprite / Visual Studio Code
 category: Pixel Art / Conception
-description: Un projet de jeu de navigateur qui permet à l'utilisateur de créer ses propres avatars sur lequel j'ai travaillé avec mon ami pendant l'hiver 2022-2023.
+description: Un projet de jeu de navigateur qui permet à l'utilisateur de créer ses propres avatars sur lequel j'ai travaillé avec mon ami pendant l'hiver 2022-2023. J'ai créé les sprites utilisés et les icônes.
 ---

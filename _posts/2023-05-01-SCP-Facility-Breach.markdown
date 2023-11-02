@@ -9,8 +9,9 @@ album3: personal/fbguns.PNG
 album4: personal/juggernaut.png
 album5: personal/fbSamsaraGame.PNG
 project-date: mai 2023
-role: Designer / Builder
+role: Designer / Builder / Modélisateur 3D
 software: Roblox Studio
 category: 3D / ROBLOX
-description: Plusieurs captures d'écran du jeu et des assets de l'expérience "SCP; Facility Breach" sur ROBLOX que j'ai modélisé et animé pour.
+description: Plusieurs captures d'écran du jeu et des assets de l'expérience "SCP; Facility Breach" sur ROBLOX. Dans le groupe de développeurs, j'ai le rôle de modélisateur 3D et animateur.
+
 ---
