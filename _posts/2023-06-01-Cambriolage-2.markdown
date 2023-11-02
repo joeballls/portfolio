@@ -7,7 +7,6 @@ album1: personal/theguys.png
 album2: personal/robbers_big.png
 album3: personal/apartment2.png
 album4: personal/item_icons.png
-alt: Cambriolage
 project-date: juin-juillet 2023
 role: Designer / Artiste de sprite
 software: Aseprite / Visual Studio Code / Figma
