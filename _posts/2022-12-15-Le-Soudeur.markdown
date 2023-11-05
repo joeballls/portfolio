@@ -11,5 +11,5 @@ project-date: 15 décembre 2022
 role: Designer / Modélisateur 3D
 software: Maya
 category: 3D
-description: Un modèle d'un personnage que j'ai modélisé, texturé et rig pour le projet final du cour de modélisation 3D dans la quatrième session.
+description: Le modèle et le croquis d'un personnage que j'ai modélisé, texturé et rig pour le projet final du cours de modélisation 3D dans la quatrième session.
 ---

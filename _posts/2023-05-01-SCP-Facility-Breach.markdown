@@ -13,5 +13,4 @@ role: Designer / Builder / Modélisateur 3D
 software: Roblox Studio
 category: 3D / ROBLOX
 description: Plusieurs captures d'écran du jeu et des assets de l'expérience "SCP; Facility Breach" sur ROBLOX. Dans le groupe de développeurs, j'ai le rôle de modélisateur 3D et animateur.
-
 ---

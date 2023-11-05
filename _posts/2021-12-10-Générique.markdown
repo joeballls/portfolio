@@ -19,5 +19,5 @@ project-date: 10 décembre 2021
 role: Designer / Illustrateur
 software: Photoshop
 category: Photoshop
-description: Un projet d'équipe pour le cours d'atelier d'illustration numérique de la première session. Notre mandat était de créer un un album d'images inspiré par le concept d'un générique de film. Pour notre équipe, on s'est inspiré de dessins d'enfants et d'histoires fantastiques. J'ai design et déssiné les personnages et quelques arrière-plans.
+description: Un projet d'équipe pour le cours d'atelier d'illustration numérique de la première session. Notre mandat était de créer un un album d'images inspiré par le concept d'un générique de film. Pour notre équipe, on s'est inspiré de dessins d'enfants et d'histoires fantastiques. J'ai dessiné les personnages et quelques arrière-plans.
 ---
