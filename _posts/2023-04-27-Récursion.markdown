@@ -3,7 +3,7 @@ layout: default
 modal-id: 16
 date: 2023-04-27
 vid: mXMOVmvcRKY
-thumbnail: school/recursionthumbnail.PNG
+thumbnail: school/recursivethumbnail.PNG
 alt: Récursion
 project-date: avril 2023
 role: Designer / Modélisateur 3D / Animateur 3D
