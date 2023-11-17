@@ -2,12 +2,12 @@
 layout: default
 modal-id: 2
 date: 2023-10-2
-thumbnail: personal/aiko_fullbody_thumbnail.png
-img: personal/aiko_fullbody.png
-alt: Aiko 2
-project-date: 2 octobre 2023
+thumbnail: personal/aiko_face.png
+album1: personal/aiko_fullbody.png
+album2: personal/aiko_face.png
+project-date: octobre 2023
 role: Artiste de sprite
 software: Aseprite
 category: Pixel Art
-description: Une illustration complète d'Aiko, un personnage que j'ai créé et conçu avec mon amie.
+description: Des illustration d'Aiko, un personnage que j'ai créé et conçu avec mon amie. Fait en pixel art avec Aseprite.
 ---
