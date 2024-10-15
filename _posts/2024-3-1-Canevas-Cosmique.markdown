@@ -2,7 +2,7 @@
 layout: default
 modal-id: 17
 date: 2024-3-1
-thumbnail: school/table/tableFin.jpg
+thumbnail: school/table/couverture2.jpg
 album1: school/table/S2_blackHoleGif.gif
 album2: school/table/S4_bugFinalGif.gif
 album3: school/table/S4_Sun.gif

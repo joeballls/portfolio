@@ -2,7 +2,7 @@
 layout: default
 modal-id: 17
 date: 2024-7-1
-thumbnail: personal/PogoRaccoon/pogoRaccoon.gif
+thumbnail: personal/PogoRaccoon/pogoRaccoonThumbnail.gif
 album1: personal/PogoRaccoon/forestLevel.png
 album2: personal/PogoRaccoon/snowLevel.png
 album3: personal/PogoRaccoon/snowLevel2.png
