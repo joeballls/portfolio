@@ -7,7 +7,7 @@ album1: personal/PogoRaccoon/forestLevel.png
 album2: personal/PogoRaccoon/snowLevel.png
 album3: personal/PogoRaccoon/snowLevel2.png
 album4: personal/PogoRaccoon/DirtTileset.png
-album5: personal/PogoRaccoon/snowTileset.png
+album5: personal/PogoRaccoon/snowTileSet.png
 album6: personal/PogoRaccoon/SandTileset.png
 project-date: Été 2024
 role: Artiste
