@@ -12,8 +12,8 @@ album6: personal/FBRemake/610.png
 album7: personal/roblox3.PNG
 album8: personal/roblox4.PNG
 project-date: mai 2023
-role: Designer / Builder / Modélisateur 3D
+role: Designer, Builder, Modélisateur 3D
 software: Roblox Studio, Blender, Photoshop
-category: 3D / ROBLOX
+category: 3D, ROBLOX
 description: Plusieurs captures d'écran du jeu et des assets de l'expérience "SCP; Facility Breach" sur ROBLOX. Dans le groupe de développeurs, j'ai le rôle de designer, modélisateur 3D et animateur.
 ---

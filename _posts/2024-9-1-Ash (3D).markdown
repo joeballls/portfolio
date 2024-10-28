@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 3
+date: 2024-9-1
+thumbnail: personal/Ash3D/Stroll.png
+album1: personal/Ash3D/ash1.png
+album2: personal/Ash3D/ash2.png
+album3: personal/Ash3D/ash3.png
+album4: personal/Ash3D/ash4.png
+album5: personal/Ash3D/ash5.png
+album6: personal/Ash3D/ashFace.gif
+project-date: Octobre 2024
+role: Modélisateur 3D, Artiste 2D
+software: Blender, Krita, Aseprite, Photoshop
+category: 3D, Pixel Art
+description: Un personnage fait originalement en 2D que j'ai refais dans Blender en 3D. Le modèle est rigged et inclus des bones pour contrôler les yeux et la bouche.
+---

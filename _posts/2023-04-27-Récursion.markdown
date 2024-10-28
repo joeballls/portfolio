@@ -6,8 +6,8 @@ vid: mXMOVmvcRKY
 thumbnail: school/recursivethumbnail.PNG
 alt: Récursion
 project-date: avril 2023
-role: Designer / Modélisateur 3D / Animateur 3D
-software: Maya / DaVinci Resolve
-category: Montage Vidéo / Modélisation 3D / Animation 3D
+role: Designer, Modélisateur 3D, Animateur 3D
+software: Maya, DaVinci Resolve
+category: Montage Vidéo, Modélisation 3D, Animation 3D
 description: Un projet d'équipe en modélisation et animation 3D. On avait comme mandat de créer une scène et naviguer celle-ci avec une caméra. Nous avons décider de faire une piscine et un quai de métro récursif, inspirés par les "Backrooms" et des environnements "liminal",
 ---
